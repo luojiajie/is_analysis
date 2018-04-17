@@ -8,6 +8,8 @@
 
 # 实验
 
-## [实验一](./TEST1/REMADE.md)
+## [实验一](./test1/README.md)
 
 ## [实验二](./test2/README.md)
+
+## [实验三](./test3/README.md)
