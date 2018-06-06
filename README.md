@@ -17,3 +17,5 @@
 ## [实验四](./test4/README.md)
 
 ## [实验五](./test5/README.md)
+
+## [实验六](./test6/README.md)
