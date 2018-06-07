@@ -12,6 +12,8 @@
 
 ## 2.界面设计
 
+界面参照:[https://luojiajie.github.io/is_analysis/test6/ui/主界面设计/index.html](https://luojiajie.github.io/is_analysis/test6/ui/主界面设计/index.html)
+
 ![主界面设计](./ui/主界面设计.jpg)
 
 ## 3.用例图设计 [源码](./src/管理平台用例图.puml)
